@@ -1,4 +1,7 @@
 # first_project
+Зиновко Мария Глебовна
+Zinouka Maryia
+
 This is an Ecommerce website, made with Django
 
 This project is a fully functional eCommerece website with user and guest checkout capabilities. 
